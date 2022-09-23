@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ReadBlobStorageAzureFunction": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7070",
+      "launchBrowser": false
+    }
+  }
+}
